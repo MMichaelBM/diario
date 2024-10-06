@@ -265,7 +265,7 @@ const bibleVerses = [
 "O Senhor te guardará de todo mal; ele guardará a tua vida, Salmos 121:7",
 "Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á, Mateus 7:7",
 "O Senhor firma os passos do homem bom e se agrada dos seus caminhos, Salmos 37:23",
-"Esforça-te, e tem bom ânimo, e o Senhor fortalecerá o teu coração, Salmos 31:24,
+"Esforça-te, e tem bom ânimo, e o Senhor fortalecerá o teu coração, Salmos 31:24",
 "Em Deus tenho posto a minha confiança, não temerei o que me possa fazer o homem, Salmos 56:11",
 "O Senhor é a minha força e o meu cântico, ele me salvou, Êxodo 15:2",
 "Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória, 2 Coríntios 4:17",
